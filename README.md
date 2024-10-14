@@ -13,9 +13,7 @@
 [[report]](https://github.com/HCHHOH/Report/blob/07ab5582ebe1d752bb6d766560b7e90c8857eb54/time%20series/24.06.26%20survey%20for%20ts/%E7%B2%BE%E5%87%86%E6%97%B6%E5%BA%8F%E9%A2%84%E6%B5%8B%E6%9C%80%E8%BF%91%E6%8A%80%E6%9C%AF%E5%89%8D%E7%9E%BB.pdf).
 
 
-## 内容概览
-
-- **Traffic Flow Prediction**
+## Traffic Flow Prediction
 
 :triangular_flag_on_post: **STONE**: [[video]](https://www.bilibili.com/video/BV1e348ewEun) [[report]](https://github.com/HCHHOH/Report/blob/762dab83ee0e621655cd14f845121dfb278c2cb5/traffic%20flow%20prediction/24.09.10%20STONE/STONE%E4%BB%8B%E7%BB%8D.pdf) [[code]](https://github.com/PoorOtterBob/STONE-KDD-2024)
 
@@ -121,5 +119,5 @@
 
 文章收录：IEEE TITS 2023
 
-- **Time Series Analysis**
+## Time Series Analysis
 
