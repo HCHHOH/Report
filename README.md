@@ -1,6 +1,8 @@
 # 论文研读PPT整理
 
-本仓库收集了关于时间序列分析和交通流量预测方向的论文研读PPT。这些PPT是Bilibili平台up主[HCHHOH](https://space.bilibili.com/164045697?spm_id_from=333.1007.0.0) 论文研读视频的相关参考资料，旨在分享和讨论该领域的最新研究。
+本库收集了关于时间序列分析和交通流量预测方向的部分论文研读PPT。
+
+这些PPT是[论文研读视频合集](https://space.bilibili.com/164045697/channel/collectiondetail?sid=1844446&ctype=0) 的相关参考资料，旨在分享和讨论该领域的最新研究。
 
 ## 相关综述报告整理
 
